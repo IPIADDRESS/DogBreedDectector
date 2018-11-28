@@ -441,6 +441,7 @@ else {
 The full code for this is [here](https://github.com/nexmo-community/DogBreedDectector/blob/a299f3c8cb572b49c91638db845d904541d29ec0/Dog-breed-detector-bot/facebookInterface.js#L129)
 
 Now that we can test it on Workplace. 
+
 ![](images/workplace-bot-example.jpg)
 
 
